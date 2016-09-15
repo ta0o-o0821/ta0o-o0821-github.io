@@ -7,7 +7,7 @@ body{
     background-color:white;
 }
 header{
-    background-image:url("bg".jpg;);
+    /background-image:url(".jpg");/
     background-position:center center;
     background-repeat:no-repeat;
     padding-bottom:100px;
@@ -17,7 +17,7 @@ header{
     text-align:center;
 }
 #logo img{
-    max-width: 200px;
+    max-width: 250px;
     border:5px solid #ddd;
     border-radius:100%;
 }
